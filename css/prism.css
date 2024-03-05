@@ -80,11 +80,11 @@
 }
 
 .token.boolean {
-  color: rgb(255, 88, 116);
+  color: rgb(35, 133, 251);
 }
 
 .token.number {
-  color: rgb(247, 140, 108);
+  color: rgb(45, 42, 247);
 }
 
 .token.constant,
