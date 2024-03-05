@@ -1,5 +1,5 @@
 ---
-name: Parth Desai
+name: charliexfi
 avatar: /static/images/avatar.png
 occupation: Data Engineer
 company: Accenture
